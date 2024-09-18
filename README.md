@@ -1,5 +1,4 @@
 # MyFirstRepo
 
 hello editing the file here
-=======
-hello editing the file somewhere NEW EDIT
+hello editing the file somewhere NEW EDIT, editing the file somewhere 
